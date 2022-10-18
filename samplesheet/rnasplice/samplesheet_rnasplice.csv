@@ -1,0 +1,10 @@
+sample,fastq1,fastq2,strandedness,sex,condition
+ERR188044,,,reverse,male,YRI
+ERR188104,,,reverse,male,YRI
+ERR188234,,,reverse,female,YRI
+ERR188245,,,reverse,female,GBR
+ERR188257,,,reverse,male,GBR
+ERR188273,,,reverse,female,YRI
+ERR188337,,,reverse,female,GBR
+ERR188383,,,reverse,male,GBR
+ERR188401,,,reverse,male,GBR
