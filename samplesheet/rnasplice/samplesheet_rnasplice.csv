@@ -1,4 +1,4 @@
-sample,fastq1,fastq2,strandedness,sex,condition																																								
+sample,fastq_1,fastq_2,strandedness,condition																																								
 ERR188044,https://github.com/zifornd/test-datasets/raw/main/testdata/Pertea_2016/ERR188044_chrX_1.fastq.gz,https://github.com/zifornd/test-datasets/raw/main/testdata/Pertea_2016/ERR188044_chrX_2.fastq.gz,unstranded,YRI																																								
 ERR188104,https://github.com/zifornd/test-datasets/raw/main/testdata/Pertea_2016/ERR188104_chrX_1.fastq.gz,https://github.com/zifornd/test-datasets/raw/main/testdata/Pertea_2016/ERR188104_chrX_2.fastq.gz,unstranded,YRI																																								
 ERR188234,https://media.githubusercontent.com/media/zifornd/test-datasets/main/testdata/Pertea_2016/ERR188234_chrX_1.fastq.gz,https://media.githubusercontent.com/media/zifornd/test-datasets/main/testdata/Pertea_2016/ERR188234_chrX_2.fastq.gz,unstranded,YRI																																								
