@@ -1,0 +1,14 @@
+samplename,file,condition
+GSM1249471_10011436_bot_1B3,https://github.com/zifornd/zifo-test-datasets/raw/pepA/testdata/influenza/GSM1249471_10011436_bot_1B3.gpr,Mock
+GSM1249472_10011408_top_1B3,https://github.com/zifornd/zifo-test-datasets/raw/pepA/testdata/influenza/GSM1249472_10011408_top_1B3.gpr,Mock
+GSM1249473_10010507_bot_1B4,https://github.com/zifornd/zifo-test-datasets/raw/pepA/testdata/influenza/GSM1249473_10010507_bot_1B4.gpr,Mock
+GSM1249490_10011520_top_2B2,https://github.com/zifornd/zifo-test-datasets/raw/pepA/testdata/influenza/GSM1249490_10011520_top_2B2.gpr,Live
+GSM1249491_10010169_bot_2B3,https://github.com/zifornd/zifo-test-datasets/raw/pepA/testdata/influenza/GSM1249491_10010169_bot_2B3.gpr,Live
+GSM1249512_10011440_bot_3B3,https://github.com/zifornd/zifo-test-datasets/raw/pepA/testdata/influenza/GSM1249512_10011440_bot_3B3.gpr,Killed.PR8
+GSM1249513_10010504_bot_3B4,https://github.com/zifornd/zifo-test-datasets/raw/pepA/testdata/influenza/GSM1249513_10010504_bot_3B4.gpr,Killed.PR8
+GSM1249529_10011413_top_4B2,https://github.com/zifornd/zifo-test-datasets/raw/pepA/testdata/influenza/GSM1249529_10011413_top_4B2.gpr,X2006.07
+GSM1249530_10011537_top_4B2,https://github.com/zifornd/zifo-test-datasets/raw/pepA/testdata/influenza/GSM1249530_10011537_top_4B2.gpr,X2006.07
+GSM1249531_10011416_bot_4B3,https://github.com/zifornd/zifo-test-datasets/raw/pepA/testdata/influenza/GSM1249531_10011416_bot_4B3.gpr,X2006.07
+GSM1249551_10010230_top_5B3,https://github.com/zifornd/zifo-test-datasets/raw/pepA/testdata/influenza/GSM1249551_10010230_top_5B3.gpr,X2007.08
+GSM1249552_10010238_bot_5B3,https://github.com/zifornd/zifo-test-datasets/raw/pepA/testdata/influenza/GSM1249552_10010238_bot_5B3.gpr,X2007.08
+GSM1249553_10011413_bot_5B4,https://github.com/zifornd/zifo-test-datasets/raw/pepA/testdata/influenza/GSM1249553_10011413_bot_5B4.gpr,X2007.08
