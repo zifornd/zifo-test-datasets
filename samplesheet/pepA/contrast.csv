@@ -1,4 +1,4 @@
 contrast,treatment,control,batch
 Mock-Live,Mock,Live,
-Mock-Live,Mock,Live,batch
-Live-Mock,Live,Mock,replicate;batch
+Mock-Live-batch,Mock,Live,batch
+Live-Mock-repbatch,Live,Mock,replicate;batch
