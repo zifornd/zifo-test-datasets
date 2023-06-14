@@ -1,4 +1,4 @@
-samplename,file,condition,survival,batch,replicate
+samplename,filepath,condition,survival,batch,replicate
 GSM1249471_10011436_bot_1B3,https://github.com/zifornd/zifo-test-datasets/raw/pepA/testdata/influenza/GSM1249471_10011436_bot_1B3.gpr,Mock,No,1,1
 GSM1249472_10011408_top_1B3,https://github.com/zifornd/zifo-test-datasets/raw/pepA/testdata/influenza/GSM1249472_10011408_top_1B3.gpr,Mock,No,3,2
 GSM1249473_10010507_bot_1B4,https://github.com/zifornd/zifo-test-datasets/raw/pepA/testdata/influenza/GSM1249473_10010507_bot_1B4.gpr,Mock,No,1,1
